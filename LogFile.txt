@@ -1,0 +1,130 @@
+13 Jan 2021 01:14:25  INFO logger - --------------------------------------
+13 Jan 2021 01:16:14  INFO logger - --------------------------------------
+13 Jan 2021 01:16:31  INFO logger - Android driver created
+14 Jan 2021 01:46:15  INFO logger - --------------------------------------
+14 Jan 2021 01:52:46  INFO logger - --------------------------------------
+14 Jan 2021 01:54:11  INFO logger - --------------------------------------
+14 Jan 2021 01:54:22  INFO logger - Android driver created
+14 Jan 2021 02:49:11  INFO logger - --------------------------------------
+14 Jan 2021 02:49:25  INFO logger - Android driver created
+14 Jan 2021 02:52:54  INFO logger - --------------------------------------
+14 Jan 2021 02:53:05  INFO logger - Android driver created
+14 Jan 2021 10:56:59  INFO logger - --------------------------------------
+14 Jan 2021 10:57:53  INFO logger - --------------------------------------
+14 Jan 2021 10:58:06  INFO logger - Android driver created
+14 Jan 2021 11:03:13  INFO logger - --------------------------------------
+14 Jan 2021 11:03:36  INFO logger - Android driver created
+14 Jan 2021 11:08:46  INFO logger - --------------------------------------
+14 Jan 2021 11:09:01  INFO logger - Android driver created
+14 Jan 2021 11:12:32  INFO logger - --------------------------------------
+14 Jan 2021 11:12:45  INFO logger - Android driver created
+14 Jan 2021 11:20:04  INFO logger - --------------------------------------
+14 Jan 2021 11:20:16  INFO logger - Android driver created
+14 Jan 2021 11:37:04  INFO logger - --------------------------------------
+14 Jan 2021 11:37:17  INFO logger - Android driver created
+14 Jan 2021 12:16:57  INFO logger - --------------------------------------
+14 Jan 2021 12:17:12  INFO logger - Android driver created
+14 Jan 2021 12:18:36  INFO logger - --------------------------------------
+14 Jan 2021 12:18:52  INFO logger - Android driver created
+14 Jan 2021 12:22:02  INFO logger - --------------------------------------
+14 Jan 2021 12:22:16  INFO logger - Android driver created
+14 Jan 2021 12:23:00  INFO logger - --------------------------------------
+14 Jan 2021 12:23:14  INFO logger - Android driver created
+14 Jan 2021 12:23:19  INFO logger - ClassName :cucumberTests.screens.android.AndroidSearchScreen
+14 Jan 2021 12:23:19  INFO logger - MethodName :findElement
+14 Jan 2021 12:23:19  INFO logger - Exception :Element not foundBy.xpath: //android.widget.ImageView[@content-desc="Search"]
+14 Jan 2021 12:23:19  INFO logger - -----------------------------------------------------------------------------------
+14 Jan 2021 12:24:38  INFO logger - --------------------------------------
+14 Jan 2021 12:24:55  INFO logger - Android driver created
+14 Jan 2021 12:30:22  INFO logger - --------------------------------------
+14 Jan 2021 12:30:39  INFO logger - Android driver created
+14 Jan 2021 12:50:39  INFO logger - --------------------------------------
+14 Jan 2021 12:50:56  INFO logger - Android driver created
+14 Jan 2021 12:56:10  INFO logger - --------------------------------------
+14 Jan 2021 12:56:25  INFO logger - Android driver created
+14 Jan 2021 12:59:57  INFO logger - --------------------------------------
+14 Jan 2021 13:00:13  INFO logger - Android driver created
+14 Jan 2021 13:01:06  INFO logger - --------------------------------------
+14 Jan 2021 13:01:48  INFO logger - --------------------------------------
+14 Jan 2021 13:02:02  INFO logger - Android driver created
+14 Jan 2021 13:03:00  INFO logger - --------------------------------------
+14 Jan 2021 13:03:17  INFO logger - Android driver created
+14 Jan 2021 13:11:12  INFO logger - --------------------------------------
+14 Jan 2021 13:11:28  INFO logger - Android driver created
+14 Jan 2021 13:32:53  INFO logger - --------------------------------------
+14 Jan 2021 13:33:11  INFO logger - Android driver created
+14 Jan 2021 13:33:19  INFO logger - --------------------------------------
+14 Jan 2021 13:33:34  INFO logger - Android driver created
+14 Jan 2021 13:33:34  INFO logger - --------------------------------------
+14 Jan 2021 13:33:50  INFO logger - Android driver created
+14 Jan 2021 13:34:36  INFO logger - --------------------------------------
+14 Jan 2021 13:34:51  INFO logger - Android driver created
+14 Jan 2021 13:35:01  INFO logger - --------------------------------------
+14 Jan 2021 13:35:15  INFO logger - Android driver created
+14 Jan 2021 13:39:34  INFO logger - --------------------------------------
+14 Jan 2021 13:39:48  INFO logger - Android driver created
+14 Jan 2021 13:39:57  INFO logger - --------------------------------------
+14 Jan 2021 13:40:12  INFO logger - Android driver created
+14 Jan 2021 14:02:06  INFO logger - --------------------------------------
+14 Jan 2021 14:02:24  INFO logger - Android driver created
+14 Jan 2021 14:02:33  INFO logger - --------------------------------------
+14 Jan 2021 14:02:50  INFO logger - Android driver created
+14 Jan 2021 14:03:03  INFO logger - --------------------------------------
+14 Jan 2021 14:03:21  INFO logger - Android driver created
+14 Jan 2021 14:03:46  INFO logger - --------------------------------------
+14 Jan 2021 14:04:03  INFO logger - Android driver created
+14 Jan 2021 14:04:05  INFO logger - --------------------------------------
+14 Jan 2021 14:04:36  INFO logger - --------------------------------------
+14 Jan 2021 14:04:47  INFO logger - Android driver created
+14 Jan 2021 14:04:54  INFO logger - --------------------------------------
+14 Jan 2021 14:05:07  INFO logger - Android driver created
+14 Jan 2021 14:05:15  INFO logger - --------------------------------------
+14 Jan 2021 14:05:29  INFO logger - Android driver created
+14 Jan 2021 14:09:45  INFO logger - --------------------------------------
+14 Jan 2021 14:09:59  INFO logger - Android driver created
+14 Jan 2021 14:10:07  INFO logger - --------------------------------------
+14 Jan 2021 14:10:22  INFO logger - Android driver created
+14 Jan 2021 14:10:31  INFO logger - --------------------------------------
+14 Jan 2021 14:10:46  INFO logger - Android driver created
+14 Jan 2021 14:11:32  INFO logger - --------------------------------------
+14 Jan 2021 14:11:46  INFO logger - Android driver created
+14 Jan 2021 14:11:50  INFO logger - --------------------------------------
+14 Jan 2021 14:12:04  INFO logger - Android driver created
+14 Jan 2021 14:12:13  INFO logger - --------------------------------------
+14 Jan 2021 14:12:27  INFO logger - Android driver created
+14 Jan 2021 14:13:35  INFO logger - --------------------------------------
+14 Jan 2021 14:13:49  INFO logger - Android driver created
+14 Jan 2021 14:13:58  INFO logger - --------------------------------------
+14 Jan 2021 14:14:12  INFO logger - Android driver created
+14 Jan 2021 14:14:14  INFO logger - --------------------------------------
+14 Jan 2021 14:14:26  INFO logger - Android driver created
+14 Jan 2021 14:47:48  INFO logger - --------------------------------------
+14 Jan 2021 14:48:06  INFO logger - Android driver created
+14 Jan 2021 14:48:15  INFO logger - --------------------------------------
+14 Jan 2021 14:48:32  INFO logger - Android driver created
+14 Jan 2021 14:48:42  INFO logger - --------------------------------------
+14 Jan 2021 14:48:57  INFO logger - Android driver created
+14 Jan 2021 14:57:23  INFO logger - --------------------------------------
+14 Jan 2021 14:57:38  INFO logger - Android driver created
+14 Jan 2021 14:57:46  INFO logger - --------------------------------------
+14 Jan 2021 14:58:01  INFO logger - Android driver created
+14 Jan 2021 14:58:11  INFO logger - --------------------------------------
+14 Jan 2021 14:58:26  INFO logger - Android driver created
+14 Jan 2021 15:02:14  INFO logger - --------------------------------------
+14 Jan 2021 15:02:27  INFO logger - Android driver created
+14 Jan 2021 15:02:36  INFO logger - --------------------------------------
+14 Jan 2021 15:02:54  INFO logger - Android driver created
+14 Jan 2021 15:03:08  INFO logger - --------------------------------------
+14 Jan 2021 15:03:27  INFO logger - Android driver created
+14 Jan 2021 15:09:55  INFO logger - --------------------------------------
+14 Jan 2021 15:10:11  INFO logger - Android driver created
+14 Jan 2021 15:10:21  INFO logger - --------------------------------------
+14 Jan 2021 15:10:36  INFO logger - Android driver created
+14 Jan 2021 15:10:47  INFO logger - --------------------------------------
+14 Jan 2021 15:11:01  INFO logger - Android driver created
+14 Jan 2021 19:13:31  INFO logger - --------------------------------------
+14 Jan 2021 19:13:50  INFO logger - Android driver created
+14 Jan 2021 19:14:02  INFO logger - --------------------------------------
+14 Jan 2021 19:14:19  INFO logger - Android driver created
+14 Jan 2021 19:14:30  INFO logger - --------------------------------------
+14 Jan 2021 19:14:46  INFO logger - Android driver created
